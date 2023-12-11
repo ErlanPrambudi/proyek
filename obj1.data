@@ -1,0 +1,5 @@
+classes= 33
+train  = /content/Project-Yolo/train.txt
+valid  = /content/Project-Yolo/valid.txt
+names = /content/Project-Yolo/obj.names
+backup = backup/
